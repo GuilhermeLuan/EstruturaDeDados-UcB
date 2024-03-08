@@ -4,7 +4,7 @@
 char f (int x);
 
 int main(){
-    char x = f(2);
+    char x = f(6);
     printf("Res: %c", x);
     return 0;
 }
